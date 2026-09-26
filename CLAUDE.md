@@ -2,7 +2,7 @@
 
 This repo produces and schedules one TikTok video per day for the history myth-busting channel
 **Raw Avenue**. Every topic is told in exactly two parts (Part 1 ends on a cliffhanger, Part 2 pays
-it off and teases the next topic). Posting is fully automatic via the Metricool connector.
+it off and teases the next topic). Each post is scheduled in Metricool with autoPublish off: at the scheduled time Metricool's phone app notifies Leon and he taps to publish.
 
 ## The daily run (do these in order)
 
@@ -45,7 +45,7 @@ it off and teases the next topic). Posting is fully automatic via the Metricool 
    - `blogId`: `7099952`; `date`: `<date>T18:00:00+04:00` (if that time has passed, 15 minutes from now).
    - `info` (JSON string):
      ```json
-     {"autoPublish": true, "draft": false, "descendants": [], "firstCommentText": "",
+     {"autoPublish": false, "draft": false, "descendants": [], "firstCommentText": "",
       "hasNotReadNotes": false, "media": ["<raw_base><file>"], "mediaAltText": [],
       "providers": [{"network": "tiktok"}],
       "publicationDate": {"dateTime": "<date>T18:00:00", "timezone": "Asia/Dubai"},
