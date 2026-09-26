@@ -6,11 +6,13 @@
  "posts": [
   {
    "date": "2026-09-26",
-   "time": "18:00",
+   "time": "11:58",
    "slug": "houdini",
    "topic": "Houdini's death",
    "part": "part1",
-   "status": "planned"
+   "status": "scheduled",
+   "file": "2026-09-26_houdini_part1.mp4",
+   "planner_url": "https://app.metricool.com/planner/calendar?blogId=7099952&openWithPostUuid=1848615295704514938"
   },
   {
    "date": "2026-09-27",

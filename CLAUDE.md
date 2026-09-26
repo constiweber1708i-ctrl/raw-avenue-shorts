@@ -52,9 +52,10 @@ it off and teases the next topic). Each post is scheduled in Metricool with auto
       "shortener": false, "smartLinkData": {"ids": []}, "text": "<caption>",
       "tiktokData": {"disableComment": false, "disableDuet": false, "disableStitch": false,
         "privacyOption": "PUBLIC_TO_EVERYONE", "commercialContentThirdParty": false,
-        "commercialContentOwnBrand": false, "title": "", "autoAddMusic": false,
+        "commercialContentOwnBrand": false, "title": "<short title, required>", "autoAddMusic": false,
         "photoCoverIndex": 0, "isAigc": true}}
      ```
+   - `tiktokData.title` is required by Metricool: a short title such as "Houdini didn't die in the tank (Part 1)".
    - Caption: line 1 the hook as a claim, line 2 the open question, line 3 "Part 2 on my page" (Part 1)
      or "Part 1 on my page" (Part 2), then 3–5 hashtags: #history #mythbusting #historyfacts plus one
      topic tag. Under 300 characters.
