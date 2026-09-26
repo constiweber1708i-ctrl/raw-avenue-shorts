@@ -4,6 +4,9 @@ This repo produces and schedules one TikTok video per day for the history myth-b
 **Raw Avenue**. Every topic is told in exactly two parts (Part 1 ends on a cliffhanger, Part 2 pays
 it off and teases the next topic). Each post is scheduled in Metricool with autoPublish on and goes live automatically.
 
+**Style is locked:** read `STYLE.md` before writing any script or scene, never edit `engine/`, and make
+every video match `style/reference_part1.png` and `style/reference_part2.png`.
+
 ## The daily run (do these in order)
 
 1. `bash setup.sh` (installs deps, the offline voice model and fonts into `~/.cache/rawavenue`).
@@ -25,7 +28,7 @@ it off and teases the next topic). Each post is scheduled in Metricool with auto
      spoken ("fifty two"); years may stay as digits.
 4. **Scenes** (only if `topics/<slug>/scenes.py` is missing). Write `s_<id>(c, t, L)` and
    `shots_<id>(L, D)` for every scene id, using `engine/draw.py` primitives. Model it on
-   `topics/houdini/scenes.py` (start the file with `from draw import *`). Layout rules:
+   `topics/houdini/scenes.py` (start the file with `from draw import *`) and follow `STYLE.md`. Layout rules:
    - World coordinates: 1080 wide; keep drawings between y 430 and y 1140; pin labels at y 440;
      figures stand with hip at y ≈ 1000 (feet at ≈ 1156). Camera centre is usually (540, 790).
    - Shots: a cut every 2–3.5 s; alternate wide (1.0) and close (1.35–1.7) framings; the close
@@ -35,7 +38,9 @@ it off and teases the next topic). Each post is scheduled in Metricool with auto
    - Optional `hits(part, tl)` returns times for impact sounds.
 5. **Preview**: `python engine/build.py <slug> <part> --preview t1,t2,...` with one timestamp in every
    scene (read scene times from the printed table). Open `work/<slug>/out/sheet_<part>.png` with Read.
-   Fix text cut off by the header/caption bands, overlaps and empty frames. At most 3 rounds.
+   Also open `style/reference_part1.png` and compare: same paper, line weight, fonts, label style and
+   density. Fix text cut off by the header/caption bands, overlaps, empty frames and anything off-style.
+   At most 3 rounds.
 6. **Build**: `python engine/build.py <slug> <part> --date <date>`. Duration must be ≥ 61 s
    (TikTok rewards need > 1 min); if shorter, add a line to the script and rebuild.
 7. **Commit and push**: `git add videos/ topics/<slug>/ calendar.json`, commit
@@ -60,9 +65,14 @@ it off and teases the next topic). Each post is scheduled in Metricool with auto
      or "Part 1 on my page" (Part 2), then 3–5 hashtags: #history #mythbusting #historyfacts plus one
      topic tag. Under 300 characters.
 10. Set the entry's `status` to `scheduled`, add `planner_url` and `file`, commit and push.
-11. **Keep the calendar full**: if fewer than 6 `planned` entries remain after today, research new
-    well-documented history myths (a famous belief + a verifiable reversal with a date or number) and
-    append them as part1/part2 pairs on the following dates, 18:00.
+11. **Keep new ideas coming** (every run, even when today needed nothing):
+    - Keep at least 10 `planned` entries after today in `calendar.json`. To add a topic, take the top
+      item of `IDEAS.md`, verify its reversal in two independent sources you open, and if it holds,
+      append it as a part1/part2 pair on the next free dates at 18:00 and remove it from `IDEAS.md`.
+      If it fails, move it to "Dropped" with the reason and try the next idea.
+    - When `IDEAS.md` has fewer than 10 ideas, research new history myths that meet its rules and add
+      them to the backlog. Never repeat a topic that is already in `topics/` or `calendar.json`.
+    - Commit and push `calendar.json` and `IDEAS.md`.
 
 ## If something breaks
 Never schedule a broken, silent or sub-61-second video. If a step cannot be fixed within the run, set
