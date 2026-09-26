@@ -10,6 +10,7 @@ it off and teases the next topic). Posting is fully automatic via the Metricool 
 2. Open `calendar.json`. Today's entry is the one whose `date` equals today's date in Asia/Dubai.
    - `status` is `scheduled` or `posted` → nothing to do; go to step 11.
    - No entry for today → go to step 11, then stop.
+   - `videos/<date>_<slug>_<part>.mp4` already exists → skip to step 8.
 3. **Script** (only if `topics/<slug>/scripts.json` is missing). Write both parts at once:
    - Research the myth with web search; open the pages you use. Every date, number and name must be
      supported by a page you opened; contested points are said as contested ("may have", "doctors still
