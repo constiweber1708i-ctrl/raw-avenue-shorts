@@ -1,0 +1,130 @@
+{
+ "part1": {
+  "title": "HOUDINI'S DEATH",
+  "badge": "PART 1 OF 2",
+  "scenes": [
+   {
+    "id": "hook",
+    "lines": [
+     "Harry Houdini died one hundred years ago this Halloween.",
+     "And the way you picture it? Hollywood made that up."
+    ]
+   },
+   {
+    "id": "tank",
+    "lines": [
+     "Here's the legend. Houdini is lowered upside down into his Water Torture Cell.",
+     "A glass tank full of water, his feet locked in wooden stocks."
+    ]
+   },
+   {
+    "id": "curtain",
+    "lines": [
+     "The curtain closes. The crowd counts. One minute. Two.",
+     "The curtain opens, and the greatest escape artist alive never got out."
+    ]
+   },
+   {
+    "id": "film",
+    "lines": [
+     "Great story. Except it comes from a 1953 movie.",
+     "The real Houdini first did that trick in Berlin in 1912, and it was not what killed him."
+    ]
+   },
+   {
+    "id": "hospital",
+    "lines": [
+     "He didn't die on stage. He died in a hospital bed in Detroit, on October 31st, 1926.",
+     "He was fifty two."
+    ]
+   },
+   {
+    "id": "dressing",
+    "lines": [
+     "And what put him there started nine days earlier, in a Montreal dressing room.",
+     "A college student knocked on the door with one very strange question."
+    ]
+   },
+   {
+    "id": "cta1",
+    "lines": [
+     "What he asked, and what happened next, is part two. Follow so you don't miss it."
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "title": "HOUDINI'S DEATH",
+  "badge": "PART 2 OF 2",
+  "scenes": [
+   {
+    "id": "hook2",
+    "lines": [
+     "Part two. The punches that may have killed Houdini."
+    ]
+   },
+   {
+    "id": "couch",
+    "lines": [
+     "October 22nd, 1926. Montreal.",
+     "Houdini is lying on a couch backstage, still healing from a broken ankle."
+    ]
+   },
+   {
+    "id": "question",
+    "lines": [
+     "A student named J. Gordon Whitehead asks him: is it true you can take any punch to the stomach?",
+     "Houdini says yes."
+    ]
+   },
+   {
+    "id": "punch",
+    "lines": [
+     "Whitehead hits him. Hard. Several times.",
+     "Before Houdini can brace himself. Witnesses said he winced at every blow."
+    ]
+   },
+   {
+    "id": "doctor",
+    "lines": [
+     "Two days of constant pain later, a doctor finds acute appendicitis and says: surgery, now.",
+     "Houdini refuses. He has a show."
+    ]
+   },
+   {
+    "id": "stage",
+    "lines": [
+     "Detroit. A fever of one hundred and four.",
+     "He passes out on stage, gets revived, and finishes the performance anyway."
+    ]
+   },
+   {
+    "id": "death",
+    "lines": [
+     "His appendix had burst. Peritonitis. Penicillin wouldn't even be discovered for two more years.",
+     "He died on Halloween, age fifty two."
+    ]
+   },
+   {
+    "id": "twist",
+    "lines": [
+     "The twist? Doctors still can't agree the punches caused it.",
+     "The appendicitis may have been there all along."
+    ]
+   },
+   {
+    "id": "seance",
+    "lines": [
+     "For ten Halloweens, his wife Bess held a seance, waiting for their secret code: Rosabelle, believe.",
+     "In 1936, she finally blew out the candle."
+    ]
+   },
+   {
+    "id": "next",
+    "lines": [
+     "Next, a brand new myth. Vikings never wore horned helmets. So who invented them? Follow for that one."
+    ]
+   }
+  ]
+ }
+}

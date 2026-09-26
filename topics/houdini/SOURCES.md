@@ -1,0 +1,2 @@
+- Houdini's death, Whitehead punches (22 Oct 1926, Montreal), fever 104°F in Detroit, death 31 Oct 1926 aged 52, séances, "Rosabelle believe", 1936: https://en.wikipedia.org/wiki/Harry_Houdini
+- 1953 film shows him dying after failing the water torture escape: https://en.wikipedia.org/wiki/Houdini_(1953_film)

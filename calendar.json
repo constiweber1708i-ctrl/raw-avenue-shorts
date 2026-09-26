@@ -1,0 +1,264 @@
+{
+ "timezone": "Asia/Dubai",
+ "metricool_brand_id": "7099952",
+ "tiktok_account": "Raw Avenue",
+ "raw_base": "https://raw.githubusercontent.com/constiweber1708i-ctrl/raw-avenue-shorts/main/videos/",
+ "posts": [
+  {
+   "date": "2026-09-26",
+   "time": "18:00",
+   "slug": "houdini",
+   "topic": "Houdini's death",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-27",
+   "time": "18:00",
+   "slug": "houdini",
+   "topic": "Houdini's death",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-28",
+   "time": "18:00",
+   "slug": "vikings",
+   "topic": "Viking horned helmets",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-29",
+   "time": "18:00",
+   "slug": "vikings",
+   "topic": "Viking horned helmets",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-30",
+   "time": "18:00",
+   "slug": "napoleon",
+   "topic": "Napoleon's height",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-01",
+   "time": "18:00",
+   "slug": "napoleon",
+   "topic": "Napoleon's height",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-02",
+   "time": "18:00",
+   "slug": "let-them-eat-cake",
+   "topic": "\"Let them eat cake\"",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-03",
+   "time": "18:00",
+   "slug": "let-them-eat-cake",
+   "topic": "\"Let them eat cake\"",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-04",
+   "time": "18:00",
+   "slug": "iron-maiden",
+   "topic": "The iron maiden",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-05",
+   "time": "18:00",
+   "slug": "iron-maiden",
+   "topic": "The iron maiden",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-06",
+   "time": "18:00",
+   "slug": "nero-fiddle",
+   "topic": "Nero's fiddle",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-07",
+   "time": "18:00",
+   "slug": "nero-fiddle",
+   "topic": "Nero's fiddle",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-08",
+   "time": "18:00",
+   "slug": "great-wall-space",
+   "topic": "Great Wall visible from space",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-09",
+   "time": "18:00",
+   "slug": "great-wall-space",
+   "topic": "Great Wall visible from space",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-10",
+   "time": "18:00",
+   "slug": "edison-bulb",
+   "topic": "Edison and the light bulb",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-11",
+   "time": "18:00",
+   "slug": "edison-bulb",
+   "topic": "Edison and the light bulb",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-12",
+   "time": "18:00",
+   "slug": "flat-earth",
+   "topic": "Medieval flat Earth",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-13",
+   "time": "18:00",
+   "slug": "flat-earth",
+   "topic": "Medieval flat Earth",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-14",
+   "time": "18:00",
+   "slug": "winnie-the-pooh",
+   "topic": "The real Winnie-the-Pooh",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-15",
+   "time": "18:00",
+   "slug": "winnie-the-pooh",
+   "topic": "The real Winnie-the-Pooh",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-16",
+   "time": "18:00",
+   "slug": "walt-disney-frozen",
+   "topic": "Walt Disney frozen",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-17",
+   "time": "18:00",
+   "slug": "walt-disney-frozen",
+   "topic": "Walt Disney frozen",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-18",
+   "time": "18:00",
+   "slug": "paul-revere",
+   "topic": "Paul Revere's ride",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-19",
+   "time": "18:00",
+   "slug": "paul-revere",
+   "topic": "Paul Revere's ride",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-20",
+   "time": "18:00",
+   "slug": "medieval-life-expectancy",
+   "topic": "Medieval life expectancy",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-21",
+   "time": "18:00",
+   "slug": "medieval-life-expectancy",
+   "topic": "Medieval life expectancy",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-22",
+   "time": "18:00",
+   "slug": "chastity-belts",
+   "topic": "Chastity belts",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-23",
+   "time": "18:00",
+   "slug": "chastity-belts",
+   "topic": "Chastity belts",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-24",
+   "time": "18:00",
+   "slug": "titanic-unsinkable",
+   "topic": "The \"unsinkable\" Titanic",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-25",
+   "time": "18:00",
+   "slug": "titanic-unsinkable",
+   "topic": "The \"unsinkable\" Titanic",
+   "part": "part2",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-26",
+   "time": "18:00",
+   "slug": "salem-witches",
+   "topic": "Salem witches",
+   "part": "part1",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-27",
+   "time": "18:00",
+   "slug": "salem-witches",
+   "topic": "Salem witches",
+   "part": "part2",
+   "status": "planned"
+  }
+ ]
+}
