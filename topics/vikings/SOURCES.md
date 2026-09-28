@@ -1,3 +1,5 @@
-- Carl Emil Doepler designed horned helmets for Wagner's Ring cycle, Bayreuth 1876; no direct archaeological evidence of horned Viking helmets: https://en.wikipedia.org/wiki/Carl_Emil_Doepler
+- Carl Emil Doepler designed horned helmets for Wagner's Ring cycle, Bayreuth 1876, as head of the Festival's costume department; no direct archaeological evidence of horned Viking helmets; his Valkyries wore winged, not horned, helmets: https://en.wikipedia.org/wiki/Carl_Emil_Doepler
 - Gjermundbu helmet: found 29 March 1943 at Gjermundbu farm, Ringerike, Norway; 10th century; round iron cap: https://en.wikipedia.org/wiki/Gjermundbu_helmet
+- Gjermundbu helmet found by farmer Lars Gjermundbo, in nine fragments, restored; distinctive "spectacle" eye guard of two round eyepieces joined by a nose guard: https://sagy.vikingove.cz/en/the-helmet-from-gjermundbu/ ; https://www.thevikingherald.com/article/the-gjermundbu-helmet-one-of-the-most-amazing-viking-era-finds/329
 - Veksø helmets: Bronze Age horned helmets found 1942 near Veksø, Zealand, Denmark: https://en.wikipedia.org/wiki/Veksø_helmets
+- 1876 Bayreuth Festival staged the first complete, sequential performance of all four Ring cycle operas (world premiere of the full cycle): https://en.wikipedia.org/wiki/Bayreuth_Festspielhaus ; https://robertgreenbergmusic.com/music-history-monday-the-miracle-at-bayreuth/

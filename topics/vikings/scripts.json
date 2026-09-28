@@ -5,9 +5,9 @@
   "scenes": [
    {"id": "hook", "lines": ["Close your eyes and picture a Viking. Horns on the helmet, right? Wrong."]},
    {"id": "famous", "lines": ["Picture him: furs, an axe, and two big horns sticking out of an iron helmet.", "It's on beer cans, sports logos and Halloween costumes."]},
-   {"id": "digs", "lines": ["Now the problem. Archaeologists have dug up Viking swords, ships, shields and graves.", "Not one horned helmet from the Viking Age."]},
-   {"id": "find", "lines": ["In fact, only one near-complete Viking helmet has ever been found.", "A farmer dug it up in Norway in 1943."]},
-   {"id": "compare", "lines": ["It's a round iron cap with a guard around the eyes. No horns."]},
+   {"id": "digs", "lines": ["Now the problem. Archaeologists have dug up Viking swords, ships, shields and graves.", "Not one horned helmet from the Viking Age. Not one."]},
+   {"id": "find", "lines": ["In fact, only one near-complete Viking helmet has ever been found.", "A farmer named Lars Gjermundbo dug it up on his own land in Norway, in 1943.", "It had lain in the ground, in pieces, for almost a thousand years."]},
+   {"id": "compare", "lines": ["It's a round iron cap, built from nine fragments and pieced back together.", "Two round eyepieces joined by a nose guard, like an iron pair of glasses.", "No horns."]},
    {"id": "stage", "lines": ["So somebody, about a thousand years later, stuck horns on the Vikings.", "And it happened on a theatre stage."]},
    {"id": "cta1", "lines": ["Who, where and why is part two. Follow so you don't miss it."]}
   ]
@@ -17,11 +17,11 @@
   "badge": "PART 2 OF 2",
   "scenes": [
    {"id": "hook2", "lines": ["Part two. The man who gave the Vikings horns."]},
-   {"id": "bayreuth", "lines": ["Bayreuth, Germany, 1876.", "Richard Wagner is staging his huge opera cycle, The Ring of the Nibelung."]},
-   {"id": "doepler", "lines": ["His costume designer, Carl Emil Doepler, wants the Norse warriors to look wild and ancient.", "So he gives them horned helmets."]},
-   {"id": "spread", "lines": ["The opera is a sensation. Painters, illustrators and later Hollywood copy the look.", "And it sticks for a hundred and fifty years."]},
-   {"id": "twist", "lines": ["The twist? Horned helmets are real. They just belong to the wrong people."]},
-   {"id": "vekso", "lines": ["In 1942, two Bronze Age helmets with curving horns were found in a Danish bog.", "They were made more than fifteen hundred years before the first Viking raid."]},
+   {"id": "bayreuth", "lines": ["Bayreuth, Germany, 1876.", "Richard Wagner is staging his huge opera cycle, The Ring of the Nibelung.", "It's the world premiere of the complete, four-opera cycle."]},
+   {"id": "doepler", "lines": ["His costume designer, Carl Emil Doepler, wants the Norse warriors to look wild and ancient.", "So he gives the men horned helmets.", "Funnily enough, his Valkyries get wings on theirs instead."]},
+   {"id": "spread", "lines": ["The opera is a sensation. Painters, illustrators and later Hollywood copy the look.", "And it sticks for a hundred and fifty years, no evidence required."]},
+   {"id": "twist", "lines": ["The twist? Horned helmets are real. They just belong to the wrong people, and the wrong era entirely."]},
+   {"id": "vekso", "lines": ["In 1942, two Bronze Age helmets with curving horns were found in a Danish bog near the village of Vekso.", "They were made more than fifteen hundred years before the first Viking raid."]},
    {"id": "next", "lines": ["Next, a brand new myth. Napoleon wasn't short. So why does everyone think he was? Follow for that one."]}
   ]
  }
