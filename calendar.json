@@ -31,7 +31,10 @@
    "slug": "vikings",
    "topic": "Viking horned helmets",
    "part": "part1",
-   "status": "planned"
+   "status": "scheduled",
+   "file": "2026-09-28_vikings_part1.mp4",
+   "planner_url": "https://app.metricool.com/planner/calendar?blogId=7099952&openWithPostUuid=914390266385220349",
+   "note": "This session could only push to branch claude/amazing-cannon-ku4sn2, not main (raw_base above is main and 404s until merged). Metricool was given the branch's raw.githubusercontent URL instead and confirmed it fetched the video to its own storage at schedule time, so auto-publish is not at risk from the branch. Merge the branch to main so raw_base resolves normally for future runs."
   },
   {
    "date": "2026-09-29",
