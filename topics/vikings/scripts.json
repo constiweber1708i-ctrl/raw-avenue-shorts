@@ -3,26 +3,115 @@
   "title": "VIKING HELMETS",
   "badge": "PART 1 OF 2",
   "scenes": [
-   {"id": "hook", "lines": ["Close your eyes and picture a Viking. Horns on the helmet, right? Wrong."]},
-   {"id": "famous", "lines": ["Picture him: furs, an axe, and two big horns sticking out of an iron helmet.", "It's on beer cans, sports logos and Halloween costumes."]},
-   {"id": "digs", "lines": ["Now the problem. Archaeologists have dug up Viking swords, ships, shields and graves.", "Not one horned helmet from the Viking Age."]},
-   {"id": "find", "lines": ["In fact, only one near-complete Viking helmet has ever been found.", "A farmer dug it up in Norway in 1943."]},
-   {"id": "compare", "lines": ["It's a round iron cap with a guard around the eyes. No horns."]},
-   {"id": "stage", "lines": ["So somebody, about a thousand years later, stuck horns on the Vikings.", "And it happened on a theatre stage."]},
-   {"id": "cta1", "lines": ["Who, where and why is part two. Follow so you don't miss it."]}
+   {
+    "id": "hook",
+    "lines": [
+     "Close your eyes and picture a Viking. Horns on the helmet, right? Wrong."
+    ]
+   },
+   {
+    "id": "famous",
+    "lines": [
+     "Picture him: furs, an axe, and two big horns sticking out of an iron helmet.",
+     "It's on beer cans, sports logos and Halloween costumes.",
+     "You have seen it a thousand times."
+    ]
+   },
+   {
+    "id": "digs",
+    "lines": [
+     "Now the problem. Archaeologists have dug up Viking swords, ships, shields and graves.",
+     "Not one horned helmet from the Viking Age.",
+     "Not even a fragment of one."
+    ]
+   },
+   {
+    "id": "find",
+    "lines": [
+     "In fact, only one near-complete Viking helmet has ever been found.",
+     "A farmer dug it up in Norway in 1943."
+    ]
+   },
+   {
+    "id": "compare",
+    "lines": [
+     "It's a round iron cap with a guard around the eyes.",
+     "Simple. Practical. No horns."
+    ]
+   },
+   {
+    "id": "stage",
+    "lines": [
+     "So somebody, about a thousand years later, stuck horns on the Vikings.",
+     "And it happened on a theatre stage.",
+     "So where did the horns come from? Not from any Viking."
+    ]
+   },
+   {
+    "id": "cta1",
+    "lines": [
+     "Who, where and why is part two. Follow so you don't miss it."
+    ]
+   }
   ]
  },
  "part2": {
   "title": "VIKING HELMETS",
   "badge": "PART 2 OF 2",
   "scenes": [
-   {"id": "hook2", "lines": ["Part two. The man who gave the Vikings horns."]},
-   {"id": "bayreuth", "lines": ["Bayreuth, Germany, 1876.", "Richard Wagner is staging his huge opera cycle, The Ring of the Nibelung."]},
-   {"id": "doepler", "lines": ["His costume designer, Carl Emil Doepler, wants the Norse warriors to look wild and ancient.", "So he gives them horned helmets."]},
-   {"id": "spread", "lines": ["The opera is a sensation. Painters, illustrators and later Hollywood copy the look.", "And it sticks for a hundred and fifty years."]},
-   {"id": "twist", "lines": ["The twist? Horned helmets are real. They just belong to the wrong people."]},
-   {"id": "vekso", "lines": ["In 1942, two Bronze Age helmets with curving horns were found in a Danish bog.", "They were made more than fifteen hundred years before the first Viking raid."]},
-   {"id": "next", "lines": ["Next, a brand new myth. Napoleon wasn't short. So why does everyone think he was? Follow for that one."]}
+   {
+    "id": "hook2",
+    "lines": [
+     "Part two. The man who gave the Vikings horns."
+    ]
+   },
+   {
+    "id": "bayreuth",
+    "lines": [
+     "Bayreuth, Germany, 1876.",
+     "Richard Wagner is staging his huge opera cycle, The Ring of the Nibelung.",
+     "Norse gods, heroes and warriors, on a stage, for days."
+    ]
+   },
+   {
+    "id": "doepler",
+    "lines": [
+     "His costume designer, Carl Emil Doepler, wants the Norse warriors to look wild and ancient.",
+     "So he gives them horned helmets.",
+     "No dig has ever shown that real Viking helmets had horns."
+    ]
+   },
+   {
+    "id": "spread",
+    "lines": [
+     "The opera is a sensation. Painters, illustrators and later Hollywood copy the look.",
+     "Costume shops copy it. Cartoons copy it. Sports teams copy it.",
+     "And it sticks for a hundred and fifty years."
+    ]
+   },
+   {
+    "id": "twist",
+    "lines": [
+     "The twist? Horned helmets are real. They just belong to the wrong people.",
+     "And the wrong century. Not even close."
+    ]
+   },
+   {
+    "id": "vekso",
+    "lines": [
+     "In 1942, a workman digging peat in a Danish bog hit something hard.",
+     "Two Bronze Age helmets with curving horns.",
+     "They were made more than fifteen hundred years before the first Viking raid.",
+     "Experts think they were probably ritual gear, not battle gear."
+    ]
+   },
+   {
+    "id": "next",
+    "lines": [
+     "So the Vikings never wore horns. A Bronze Age priest may have, and a costume designer did.",
+     "Next, a brand new myth. Napoleon wasn't short. So why does everyone think he was? Follow for that one."
+    ]
+   }
   ]
  }
 }

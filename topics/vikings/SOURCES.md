@@ -1,3 +1,4 @@
 - Carl Emil Doepler designed horned helmets for Wagner's Ring cycle, Bayreuth 1876; no direct archaeological evidence of horned Viking helmets: https://en.wikipedia.org/wiki/Carl_Emil_Doepler
 - Gjermundbu helmet: found 29 March 1943 at Gjermundbu farm, Ringerike, Norway; 10th century; round iron cap: https://en.wikipedia.org/wiki/Gjermundbu_helmet
 - Veksø helmets: Bronze Age horned helmets found 1942 near Veksø, Zealand, Denmark: https://en.wikipedia.org/wiki/Veksø_helmets
+- Veksø helmets found 1942 by a workman digging peat in a bog; Bronze Age; probably ceremonial (search-result summary; page not directly opened): https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-bronze-age/the-viksoe-helmets/
