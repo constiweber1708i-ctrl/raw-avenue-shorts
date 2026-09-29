@@ -22,8 +22,8 @@
    "topic": "Houdini's death",
    "part": "part2",
    "status": "scheduled",
-  "file": "2026-09-27_houdini_part2.mp4",
-  "planner_url": "https://app.metricool.com/planner/calendar?blogId=7099952&openWithPostUuid=1416612676205955587"
+   "file": "2026-09-27_houdini_part2.mp4",
+   "planner_url": "https://app.metricool.com/planner/calendar?blogId=7099952&openWithPostUuid=1416612676205955587"
   },
   {
    "date": "2026-09-28",
@@ -31,7 +31,8 @@
    "slug": "vikings",
    "topic": "Viking horned helmets",
    "part": "part1",
-   "status": "planned"
+   "status": "failed",
+   "note": "Part 1 was never built or scheduled (no run on 2026-09-28)."
   },
   {
    "date": "2026-09-29",
@@ -39,7 +40,9 @@
    "slug": "vikings",
    "topic": "Viking horned helmets",
    "part": "part2",
-   "status": "planned"
+   "status": "scheduled",
+   "file": "2026-09-29_vikings_part2.mp4",
+   "planner_url": "https://app.metricool.com/planner/calendar?blogId=7099952&openWithPostUuid=8468811209704817752"
   },
   {
    "date": "2026-09-30",
