@@ -50,7 +50,8 @@
    "slug": "napoleon",
    "topic": "Napoleon's height",
    "part": "part1",
-   "status": "planned"
+   "status": "failed",
+   "note": "Run on 2026-09-30: every web page fetch (history.com, howstuffworks, wikipedia, britannica etc.) was blocked by the sandbox egress proxy, so no source could be opened and Part 1 could not be fact-checked. Search snippets only; not enough per CLAUDE.md. Also ffmpeg was missing from setup (static build workaround needed)."
   },
   {
    "date": "2026-10-01",
