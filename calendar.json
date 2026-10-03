@@ -76,7 +76,8 @@
       "slug": "let-them-eat-cake",
       "topic": "\"Let them eat cake\"",
       "part": "part2",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-03: web page fetches (wikipedia, britannica) blocked by sandbox egress proxy (EGRESS_BLOCKED), so no source could be opened and the script could not be fact-checked per CLAUDE.md. Also Part 1 of this topic never went out (failed 2026-10-02), so Part 2 would have no setup. Nothing built or scheduled."
     },
     {
       "date": "2026-10-04",
