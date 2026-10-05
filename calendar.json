@@ -93,7 +93,8 @@
       "slug": "iron-maiden",
       "topic": "The iron maiden",
       "part": "part2",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-05: web fetches (wikipedia, britannica) blocked by the sandbox egress proxy (EGRESS_BLOCKED), so no source could be opened and Part 2 could not be fact-checked per CLAUDE.md. Part 1 was also never published. Nothing built or scheduled."
     },
     {
       "date": "2026-10-06",
