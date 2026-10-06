@@ -101,7 +101,8 @@
       "slug": "nero-fiddle",
       "topic": "Nero's fiddle",
       "part": "part1",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-06: every web page fetch (wikipedia, history.com) was blocked by the sandbox egress proxy (EGRESS_BLOCKED), so no source could be opened and Part 1 could not be fact-checked per CLAUDE.md. Nothing built or scheduled."
     },
     {
       "date": "2026-10-07",
