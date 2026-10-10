@@ -137,7 +137,8 @@
       "slug": "edison-bulb",
       "topic": "Edison and the light bulb",
       "part": "part1",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-10: every web page fetch failed (WebFetch: getaddrinfo ENOTFOUND for wikipedia and britannica; curl got 403 from the proxy), so no source could be opened and the script could not be fact-checked per CLAUDE.md. Nothing built or scheduled. Ideas step skipped for the same reason."
     },
     {
       "date": "2026-10-11",
