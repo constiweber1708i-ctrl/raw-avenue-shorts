@@ -146,7 +146,8 @@
       "slug": "edison-bulb",
       "topic": "Edison and the light bulb",
       "part": "part2",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-11: every web page fetch failed (WebFetch ENOTFOUND, curl CONNECT 403 from egress proxy), so no source could be opened and the script could not be fact-checked per CLAUDE.md. Part 1 (2026-10-10) was also never made. Nothing built or scheduled."
     },
     {
       "date": "2026-10-12",
