@@ -154,7 +154,8 @@
       "slug": "flat-earth",
       "topic": "Medieval flat Earth",
       "part": "part1",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-12: web page fetches (wikipedia, britannica) blocked by the sandbox egress proxy (ENOTFOUND), so no source could be opened and Part 1 could not be fact-checked per CLAUDE.md. Nothing built or scheduled."
     },
     {
       "date": "2026-10-13",
