@@ -163,7 +163,8 @@
       "slug": "flat-earth",
       "topic": "Medieval flat Earth",
       "part": "part2",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-13: web fetches blocked (curl 403 from proxy, WebFetch ENOTFOUND for wikipedia), so no source could be opened and the script could not be fact-checked per CLAUDE.md. Part 1 was also never made. Nothing built or scheduled. Ideas step skipped for the same reason."
     },
     {
       "date": "2026-10-14",
