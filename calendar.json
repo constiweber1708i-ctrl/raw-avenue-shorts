@@ -171,7 +171,8 @@
       "slug": "winnie-the-pooh",
       "topic": "The real Winnie-the-Pooh",
       "part": "part1",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-14: web page fetches (wikipedia, britannica) failed with ENOTFOUND / proxy CONNECT rejected (organization policy), so no source could be opened and Part 1 could not be fact-checked per CLAUDE.md. Nothing built or scheduled. Ideas step skipped for the same reason."
     },
     {
       "date": "2026-10-15",
