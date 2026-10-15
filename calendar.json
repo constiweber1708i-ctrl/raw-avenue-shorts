@@ -179,7 +179,8 @@
       "slug": "winnie-the-pooh",
       "topic": "The real Winnie-the-Pooh",
       "part": "part2",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-15: web page fetches (wikipedia, britannica) blocked by the sandbox egress proxy (403 / ENOTFOUND), so no source could be opened and the script could not be fact-checked per CLAUDE.md. Part 1 (10-14) was also never built. Nothing built or scheduled. Ideas step skipped for the same reason."
     },
     {
       "date": "2026-10-16",
