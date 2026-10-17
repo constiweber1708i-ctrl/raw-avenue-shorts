@@ -196,7 +196,8 @@
       "slug": "walt-disney-frozen",
       "topic": "Walt Disney frozen",
       "part": "part2",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-17: every web page fetch (wikipedia, britannica) failed with getaddrinfo ENOTFOUND, so no source could be opened and the script could not be fact-checked. Nothing built or scheduled."
     },
     {
       "date": "2026-10-18",
