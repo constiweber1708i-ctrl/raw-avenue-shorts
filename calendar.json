@@ -212,7 +212,8 @@
       "slug": "paul-revere",
       "topic": "Paul Revere's ride",
       "part": "part2",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-19: web page fetches blocked by the sandbox egress proxy (curl 403 CONNECT, WebFetch ENOTFOUND for wikipedia), so no source could be opened and the script could not be fact-checked per CLAUDE.md. Part 1 (2026-10-18) was also never made. Nothing built or scheduled. Ideas step skipped for the same reason."
     },
     {
       "date": "2026-10-20",
