@@ -237,7 +237,8 @@
       "slug": "chastity-belts",
       "topic": "Chastity belts",
       "part": "part1",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-22: every web page fetch (wikipedia, britannica, history.com) was blocked by the sandbox egress proxy (connect_rejected / ENOTFOUND), so no source could be opened and Part 1 could not be fact-checked per CLAUDE.md. Nothing built or scheduled. Ideas step skipped for the same reason."
     },
     {
       "date": "2026-10-23",
