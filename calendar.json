@@ -269,7 +269,8 @@
       "slug": "salem-witches",
       "topic": "Salem witches",
       "part": "part1",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-26: every web page fetch (wikipedia, britannica) failed (WebFetch ENOTFOUND, curl 403 from proxy), so no source could be opened and Part 1 could not be fact-checked per CLAUDE.md. Nothing built or scheduled. Ideas step skipped for the same reason."
     },
     {
       "date": "2026-10-27",
