@@ -278,7 +278,8 @@
       "slug": "salem-witches",
       "topic": "Salem witches",
       "part": "part2",
-      "status": "planned"
+      "status": "failed",
+      "note": "Run on 2026-10-27: page fetches failed again (WebFetch ENOTFOUND, curl 403 from proxy), so no source could be opened and the script could not be fact-checked. Salem Part 1 was also never made (failed 10-26), so Part 2 alone would not work. Nothing built or scheduled. Ideas step skipped."
     }
   ]
 }
